@@ -14,7 +14,7 @@ const whiskTheme = createMuiTheme({
     }
   },
   typography: {
-    fontFamily: "Archivo Narrow, Roboto, sans-serif"
+    fontFamily: "Raleway, Sans Serif"
   }
 });
 
