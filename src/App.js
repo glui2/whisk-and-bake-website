@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import AboutPage from "./components/AboutPage";
-import InspirationPage from "./components/InspirationPage";
-import OrderPage from "./components/OrderPage";
+import AboutPage from "./components/About/AboutPage";
+import InspirationPage from "./components/Inspo/InspirationPage";
+import OrderPage from "./components/Order/OrderPage";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Header from "./components/Header.js";
+import Header from "./Header/Header.js";
 
 class App extends Component {
   render() {
