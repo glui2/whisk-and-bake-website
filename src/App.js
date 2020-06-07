@@ -4,7 +4,7 @@ import InspirationPage from "./components/Inspo/InspirationPage";
 import OrderPage from "./components/Order/OrderPage";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Header from "./Header/Header.js";
+import Header from "./components/Header/Header.js";
 
 class App extends Component {
   render() {
