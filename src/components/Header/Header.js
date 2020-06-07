@@ -4,7 +4,7 @@ import { makeStyles, useTheme } from "@material-ui/core/styles";
 import AppBar from "@material-ui/core/AppBar";
 import Button from "@material-ui/core/Button";
 import { CardMedia, Toolbar } from "@material-ui/core";
-import logo from "../images/wnb_logo_crop.png";
+import logo from "../../images/wnb_logo_crop.png";
 import "./Header.css";
 
 class Header extends Component {
